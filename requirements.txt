@@ -2,4 +2,3 @@ farm-haystack
 numpy
 pandas
 lxml
-os

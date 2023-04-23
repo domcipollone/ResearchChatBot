@@ -48,9 +48,9 @@ def parse_xml(parent_element, child_element, root, df_column, df):
             df.at[index, df_column] = variable_list
 
 
-article_info_complete = pd.DataFrame(columns=['title', 'year', 'author', 'volume', 'abstract', 'rf_label'])
-labels = ['asr', 'chloride', 'nitrate', 'sulfate']
-path = 'xml_files'
+article_info = pd.DataFrame(columns=['title', 'year', 'author', 'volume', 'abstract'])
+# labels = ['asr', 'chloride', 'nitrate', 'sulfate']
+path = 'IncomingData'
 
 for count, filename in enumerate(os.listdir(path)):
     f = os.path.join(path, filename)
@@ -60,7 +60,7 @@ for count, filename in enumerate(os.listdir(path)):
         tree = etree.parse(f)
         root_doc = tree.getroot()
 
-        article_info = pd.DataFrame(columns=['title', 'year', 'author', 'volume', 'abstract', 'rf_label'])
+        article_info = pd.DataFrame(columns=['title', 'year', 'author', 'volume', 'abstract'])
 
         parents = ['titles', 'dates', 'authors', 'volume', 'abstract']
         children = ['title', 'year', 'author', '', '']
@@ -74,13 +74,13 @@ for count, filename in enumerate(os.listdir(path)):
         for i, column in enumerate(article_info.columns):
             article_info[column] = article_info[column].str[0]
 
-    article_info['rf_label'] = labels[count]
-    article_info_complete = pd.concat([article_info_complete, article_info])
+    # article_info['rf_label'] = labels[count]
+    # article_info_complete = pd.concat([article_info_complete, article_info])
 
-article_info_complete.reset_index(drop=True, inplace=True)
-article_info_complete.to_csv('ArticleData_og.csv')
+article_info.reset_index(drop=True, inplace=True)
+article_info.to_csv('ArticleData_og.csv')
 
-tree2 = etree.parse('ExampleXML_files/endnote.xml')
+tree2 = etree.parse('IncomingData/04.22.23_endnote.xml')
 root2 = tree2.getroot()
 article_info2 = pd.DataFrame(columns=['title', 'year', 'author', 'volume', 'abstract', 'rf_label'])
 

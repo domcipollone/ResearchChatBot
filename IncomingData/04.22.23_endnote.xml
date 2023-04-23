@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <records>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Brounstein, Zachary
+          </author>
+          <author>
+            Zhao, Jianchao
+          </author>
+          <author>
+            Wheat, Jeffrey
+          </author>
+          <author>
+            Labouriau, Andrea
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Tuning the 3d printability and thermomechanical properties of radiation shields</title>
+      </titles>
+      <dates>
+        <year>2021</year>
+          <pub-dates>
+            <date>10</date>
+          </pub-dates>
+      </dates>
+      <volume>13</volume>
+      <issue>19</issue>
+      <electronic-resource-num>10.3390&#x2F;polym13193284</electronic-resource-num>
+      <abstract>Additive manufacturing, with its rapid advances in materials science, allows for researchers and companies to have the ability to create novel formulations and final parts that would have been difficult or near impossible to fabricate with traditional manufacturing methods. One such 3D printing technology, direct ink writing, is especially advantageous in fields requiring customizable parts with high amounts of functional fillers. Nuclear technology is a prime example of a field that necessitates new material design with regard to unique parts that also provide radiation shielding. Indeed, much effort has been focused on developing new rigid radiation shielding components, but DIW remains a less explored technology with a lot of potential for nuclear applications. In this study, DIW formulations that can behave as radiation shields were developed and were printed with varying amounts of porosity to tune the thermomechanical performance.</abstract>
+      <publisher>MDPI</publisher>
+      <periodical><full-title>Polymers</full-title></periodical>
+      <keywords>
+        <keyword>3D printability</keyword>
+        <keyword>Direct ink writing</keyword>
+        <keyword>Inorganic fillers</keyword>
+        <keyword>Ionizing radiation</keyword>
+        <keyword>Neutron radiography</keyword>
+        <keyword>Radiation shielding</keyword>
+        <keyword>Siloxanes</keyword>
+        <keyword>Thermomechanical properties</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Naghieh, Saman
+          </author>
+          <author>
+            Sarker, M. D.
+          </author>
+          <author>
+            Sharma, N. K.
+          </author>
+          <author>
+            Barhoumi, Zohra
+          </author>
+          <author>
+            Chen, Xiongbiao
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Printability of 3D printed hydrogel scaffolds: Influence of hydrogel composition and printing parameters</title>
+      </titles>
+      <dates>
+        <year>2020</year>
+          <pub-dates>
+            <date>1</date>
+          </pub-dates>
+      </dates>
+      <volume>10</volume>
+      <issue>1</issue>
+      <electronic-resource-num>10.3390&#x2F;app10010292</electronic-resource-num>
+      <abstract>Extrusion-based bioprinting of hydrogel scaffolds is challenging due to printing-related issues, such as the lack of capability to precisely print or deposit hydrogels onto three-dimensional (3D) scaffolds as designed. Printability is an index to measure the difference between the designed and fabricated scaffold in the printing process, which, however, is still under-explored. While studies have been reported on printing hydrogel scaffolds from one or more hydrogels, there is limited knowledge on the printability of hydrogels and their printing processes. This paper presented our study on the printability of 3D printed hydrogel scaffolds, with a focus on identifying the influence of hydrogel composition and printing parameters&#x2F;conditions on printability. Using the hydrogels synthesized from pure alginate or alginate with gelatin and methyl-cellulose, we examined their flow behavior and mechanical properties, as well as their influence on printability. To characterize the printability, we examined the pore size, strand diameter, and other dimensions of the printed scaffolds. We then evaluated the printability in terms of pore&#x2F;strand&#x2F;angular&#x2F;printability and irregularity. Our results revealed that the printability could be affected by a number of factors and among them, the most important were those related to the hydrogel composition and printing parameters. This study also presented a framework to evaluate alginate hydrogel printability in a systematic manner, which can be adopted and used in the studies of other hydrogels for bioprinting.</abstract>
+      <publisher>MDPI AG</publisher>
+      <periodical><full-title>Applied Sciences (Switzerland)</full-title></periodical>
+      <keywords>
+        <keyword>Alginate</keyword>
+        <keyword>Gelatin</keyword>
+        <keyword>Methyl-cellulose</keyword>
+        <keyword>Printability</keyword>
+        <keyword>Scaffold</keyword>
+        <keyword>Viscosity</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Li, Zhixiong
+          </author>
+          <author>
+            Zhang, Ziyang
+          </author>
+          <author>
+            Shi, Junchuan
+          </author>
+          <author>
+            Wu, Dazhong
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Prediction of surface roughness in extrusion-based additive manufacturing with machine learning</title>
+      </titles>
+      <dates>
+        <year>2019</year>
+          <pub-dates>
+            <date>6</date>
+          </pub-dates>
+      </dates>
+      <volume>57</volume>
+      <pages>488-495</pages>
+      <electronic-resource-num>10.1016&#x2F;j.rcim.2019.01.004</electronic-resource-num>
+      <abstract>Additive manufacturing (AM), also known as 3D printing, has been increasingly adopted in the aerospace, automotive, energy, and healthcare industries over the past few years. While AM has many advantages over subtractive manufacturing processes, one of the primary limitations of AM is surface integrity. To improve the surface integrity of additively manufactured parts, a data-driven predictive modeling approach to predicting surface roughness in AM is introduced. Multiple sensors of different types, including thermocouples, infrared temperature sensors, and accelerometers, are used to collect temperature and vibration data. An ensemble learning algorithm is introduced to train the predictive model of surface roughness. Features in the time and frequency domains are extracted from sensor-based condition monitoring data. A subset of these features is selected to improve computational efficiency and prediction accuracy. The predictive model is validated using the condition monitoring data collected from a set of AM tests conducted on a fused filament fabrication (FFF) machine. Experimental results have shown that the proposed predictive modeling approach is capable of predicting the surface roughness of 3D printed components with high accuracy.</abstract>
+      <publisher>Elsevier Ltd</publisher>
+      <periodical><full-title>Robotics and Computer-Integrated Manufacturing</full-title></periodical>
+      <keywords>
+        <keyword>Additive manufacturing</keyword>
+        <keyword>Fused filament fabrication</keyword>
+        <keyword>Monitoring</keyword>
+        <keyword>Predictive modeling</keyword>
+        <keyword>Surface roughness</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Zhang, Haining
+          </author>
+          <author>
+            Moon, Seung Ki
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Reviews on machine learning approaches for process optimization in noncontact direct ink writing</title>
+      </titles>
+      <dates>
+        <year>2021</year>
+          <pub-dates>
+            <date>11</date>
+          </pub-dates>
+      </dates>
+      <volume>13</volume>
+      <pages>53323-53345</pages>
+      <issue>45</issue>
+      <accession-num>34042439</accession-num>
+      <electronic-resource-num>10.1021&#x2F;acsami.1c04544</electronic-resource-num>
+      <abstract>Recently, machine learning has gained considerable attention in noncontact direct ink writing because of its novel process modeling and optimization techniques. Unlike conventional fabrication approaches, noncontact direct ink writing is an emerging 3D printing technology for directly fabricating low-cost and customized device applications. Despite possessing many advantages, the achieved electrical performance of produced microelectronics is still limited by the printing quality of the noncontact ink writing process. Therefore, there has been increasing interest in the machine learning for process optimization in the noncontact direct ink writing. Compared with traditional approaches, despite machine learning-based strategies having great potential for efficient process optimization, they are still limited to optimize a specific aspect of the printing process in the noncontact direct ink writing. Therefore, a systematic process optimization approach that integrates the advantages of state-of-the-art machine learning techniques is in demand to fully optimize the overall printing quality. In this paper, we systematically discuss the printing principles, key influencing factors, and main limitations of the noncontact direct ink writing technologies based on inkjet printing (IJP) and aerosol jet printing (AJP). The requirements for process optimization of the noncontact direct ink writing are classified into four main aspects. Then, traditional methods and the state-of-the-art machine learning-based strategies adopted in IJP and AJP for process optimization are reviewed and compared with pros and cons. Finally, to further develop a systematic machine learning approach for the process optimization, we highlight the major limitations, challenges, and future directions of the current machine learning applications.</abstract>
+      <publisher>American Chemical Society</publisher>
+      <periodical><full-title>ACS Applied Materials and Interfaces</full-title></periodical>
+      <keywords>
+        <keyword>aerosol jet printing</keyword>
+        <keyword>inkjet printing</keyword>
+        <keyword>machine learning</keyword>
+        <keyword>noncontact direct ink writing</keyword>
+        <keyword>printed electronics</keyword>
+        <keyword>process optimization</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Feilden, Ezra
+          </author>
+          <author>
+            Blanca, Esther García Tuñón
+          </author>
+          <author>
+            Giuliani, Finn
+          </author>
+          <author>
+            Saiz, Eduardo
+          </author>
+          <author>
+            Vandeperre, Luc
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Robocasting of structural ceramic parts with hydrogel inks</title>
+      </titles>
+      <dates>
+        <year>2016</year>
+          <pub-dates>
+            <date>8</date>
+          </pub-dates>
+      </dates>
+      <volume>36</volume>
+      <pages>2525-2533</pages>
+      <issue>10</issue>
+      <electronic-resource-num>10.1016&#x2F;j.jeurceramsoc.2016.03.001</electronic-resource-num>
+      <abstract>Robocasting is a 3D printing technique that may be able to achieve the much-coveted goal of reliable, complex ceramic parts with low porosity and high strength. In this work a robust hydrogel formulation was optimised for use as the extrusion paste for robocasting. The paste&#39;s rheological properties were characterised and the printing process was optimised with the aim of attaining dense monolithic ceramic parts. The pastes exhibit a characteristic shear thinning behaviour with yield stresses that can reach values above 1 kPa and depend mostly on their solid content and the particle size distribution. It is possible to formulate printable Al2O3 and SiC inks with solid contents as high as 40 vol% that reached densities up to 95th% for SiC and 97th% for Al2O3 with flexural strengths of 300 MPa and 230 MPa respectively after sintering. The sources of strength limiting defects are identified and related to the printing process.</abstract>
+      <publisher>Elsevier Ltd</publisher>
+      <periodical><full-title>Journal of the European Ceramic Society</full-title></periodical>
+      <keywords>
+        <keyword>3D printing</keyword>
+        <keyword>Additive manufacturing</keyword>
+        <keyword>Ceramics</keyword>
+        <keyword>Rheology</keyword>
+        <keyword>Robocasting</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            del-Mazo-Barbara, Laura
+          </author>
+          <author>
+            Ginebra, Maria Pau
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Rheological characterisation of ceramic inks for 3D direct ink writing: A review</title>
+      </titles>
+      <dates>
+        <year>2021</year>
+          <pub-dates>
+            <date>12</date>
+          </pub-dates>
+      </dates>
+      <volume>41</volume>
+      <pages>18-33</pages>
+      <issue>16</issue>
+      <electronic-resource-num>10.1016&#x2F;j.jeurceramsoc.2021.08.031</electronic-resource-num>
+      <abstract>3D printing is a competitive manufacturing technology, which has opened up new possibilities for the fabrication of complex ceramic structures and customised parts. Extrusion-based technologies, also known as direct ink writing (DIW) or robocasting, are amongst the most used for ceramic materials. In them, the rheological properties of the ink play a crucial role, determining both the extrudability of the paste and the shape fidelity of the printed parts. However, comprehensive rheological studies of printable ceramic inks are scarce and may be difficult to understand for non-specialists. The aim of this review is to provide an overview of the main types of ceramic ink formulations developed for DIW and a detailed description of the more relevant rheological tests for assessing the printability of ceramic pastes. Moreover, the key rheological parameters are identified and linked to printability aspects, including the values reported in the literature for different ink compositions.</abstract>
+      <publisher>Elsevier Ltd</publisher>
+      <periodical><full-title>Journal of the European Ceramic Society</full-title></periodical>
+      <keywords>
+        <keyword>3D printing</keyword>
+        <keyword>Direct Ink Writing</keyword>
+        <keyword>Printability</keyword>
+        <keyword>Rheology</keyword>
+        <keyword>Robocasting</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Chen, Tao
+          </author>
+          <author>
+            Sun, Aihua
+          </author>
+          <author>
+            Chu, Chengyi
+          </author>
+          <author>
+            Wu, Huansheng
+          </author>
+          <author>
+            Wang, Jiang
+          </author>
+          <author>
+            Wang, Jianye
+          </author>
+          <author>
+            Li, Zhixiang
+          </author>
+          <author>
+            Guo, Jianjun
+          </author>
+          <author>
+            Xu, Gaojie
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Rheological behavior of titania ink and mechanical properties of titania ceramic structures by 3D direct ink writing using high solid loading titania ceramic ink</title>
+      </titles>
+      <dates>
+        <year>2019</year>
+          <pub-dates>
+            <date>4</date>
+          </pub-dates>
+      </dates>
+      <volume>783</volume>
+      <pages>321-328</pages>
+      <electronic-resource-num>10.1016&#x2F;j.jallcom.2018.12.334</electronic-resource-num>
+      <abstract>In this paper, high solid loading titania ceramic ink containing sodium hexametaphosphate and sodium alginate had been successfully prepared at room temperature. Rheological behaviors of titania ceramic ink with different solid content were investigated. The rheological results indicated that high solid loading (72 wt%) titania ceramic ink whose shear elastic modulus reached approximately 106 Pa in the linear viscoelastic region was the optimal ceramic ink for direct ink writing, due to its good shear thinning and viscoelastic behavior. High solid loading (72 wt%) titania ceramic ink was utilized to fabricate three dimensional titania ceramic parts, and a series of test methods were employed to examine the related properties of titania ceramics sintered at different temperatures including the volumetric shrinkage, porosity, density, microstructures, compressive strength and elastic modulus. The results showed that the volumetric shrinkage and density increased when increasing the sintering temperatures, and the opposite phenomenon was found in porosity of titania ceramic. When the sintering temperature was 1300 °C, the compressive strength was about 125.00 MPa. The elastic modulus of titania ceramics sintered at different temperatures (from 1000 °C to 1400 °C) was between 1.22 GPa and 6.87 GPa.</abstract>
+      <publisher>Elsevier Ltd</publisher>
+      <periodical><full-title>Journal of Alloys and Compounds</full-title></periodical>
+      <keywords>
+        <keyword>Compressive strength</keyword>
+        <keyword>Direct ink writing</keyword>
+        <keyword>High solid loading</keyword>
+        <keyword>Rheological behavior</keyword>
+        <keyword>Titania ceramic</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Fuhrmann, Philipp L.
+          </author>
+          <author>
+            Breunig, Swantje
+          </author>
+          <author>
+            Sala, Guido
+          </author>
+          <author>
+            Sagis, Leonard
+          </author>
+          <author>
+            Stieger, Markus
+          </author>
+          <author>
+            Scholten, Elke
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Rheological behaviour of attractive emulsions differing in droplet-droplet interaction strength</title>
+      </titles>
+      <dates>
+        <year>2022</year>
+          <pub-dates>
+            <date>2</date>
+          </pub-dates>
+      </dates>
+      <volume>607</volume>
+      <pages>389-400</pages>
+      <accession-num>34509113</accession-num>
+      <electronic-resource-num>10.1016&#x2F;j.jcis.2021.08.124</electronic-resource-num>
+      <abstract>Hypothesis: We hypothesise that interaction strength between oil droplets determine the rheological properties of oil-in-water (O&#x2F;W) emulsions by simultaneous formation and break-up of bonds between droplets. Using small (SAOS) and large (LAOS) amplitude oscillatory shear measurements, we aim to distinguish different classes of emulsions based on the specific microstructural evolution of the emulsions. Experiments: Concentrated O&#x2F;W emulsions differing in droplet-droplet interaction strength were obtained. Different interaction strength was obtained using different types of interactions; (a) electrostatic attraction, (b) salt bridging, or (c) crosslinking. Findings: In line with our hypothesis, different rheological events in emulsions depend on the droplet-droplet interaction strength. Strong interactions lead to monotonous yielding, and droplets undergo jamming or densification to provide strain hardening and gel-like behaviour. Emulsions with weak interactions exhibit two-step yielding (SAOS) and continuous yielding in LAOS; indicating a soft-glassy material. In emulsions above maximum packing, and with weak interactions the rheology is controlled by cluster&#x2F;cage breaking, and transient formation of new clusters. For medium-strength interactions, two-step yielding was reduced, and apparent stain-hardening occurred. The probability of two distinct time scales of yielding is hindered by stronger interactions and jamming. Overall, in concentrated emulsions, yielding is determined by network rupture and reformation, cluster rearrangement and -breaking, which in turn is influenced by interaction type and strength. We present a more differentiated categorisation of emulsions based on interaction strength.</abstract>
+      <publisher>Academic Press Inc.</publisher>
+      <periodical><full-title>Journal of Colloid and Interface Science</full-title></periodical>
+      <keywords>
+        <keyword>Clustering</keyword>
+        <keyword>Droplet-droplet interaction</keyword>
+        <keyword>Emulsion</keyword>
+        <keyword>LAOS</keyword>
+        <keyword>Polyphenol</keyword>
+        <keyword>Rheology</keyword>
+        <keyword>Yielding</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Report"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Michaels, A S
+          </author>
+          <author>
+            Morelos, O
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Polyelectrolyte Adsorption by Kaolinite</title>
+      </titles>
+      <dates>
+        <year>1955</year>
+      </dates>
+      <abstract>OVER the past few years, considerable interest has developed in the use of certain polyelectrolytes as flocculating agents for finely divided solids in aqueous suspension and as aggregating agents for soils, so-called soil conditioners. These compounds, when added in concentrations as low as 0.01% of the weight of the solid to be treated, can under proper conditions agglomerate particles very rapidly and produce stable aggregates (14, 16). The mechanism by which these polymers cause flocculation is not yet clearly defined. Pertinent facts relating to the types of compounds that are effective flocculants and the conditions under which flocculation occurs are as follows: 1. Cationic polyelectrolytes and certain nonionic water soluble gums are effective flocculants for many solid suspensions over wide ranges of pH and electrolyte concentration in solution (IS, 18). 2. Anionic polyelectrolytes are effective flocculants for clays which normally carry negative charges in water only when the polymer also contains nonionic polar groups-e.g., hydroxyl or amide-and&#x2F;or the anion is carboxyl (COO-). Purely poly-carboxylic polymers-e.g., sodium poly (methyl methacrylate)-or sulfonate polymers-e.g., sodium polystyrene sulfonate-do not flocculate these solids (9,19). 3. Anionic polvelectrolytes such as hydrolyzed polyacrylo-nitrile, hydrolyzed polyacrylamide, and poly (calcium maleate co vinyl acetate) are effective flocculants for clays and soils in neutral or slightly acid solution. In solutions made alkaline with caustic soda, flocculation does not occur. In solutions made alkaline with lime, flocculation does take place (13). 4. With caustic-hydrolyzed polyacrylamide, maximum floc-culation effectiveness is found to occur when the extent of hy-drolysis is about 30% (7). 5. Despite their poor flocculating ability, purely carboxylic polymers such as sodium poly(methyl methacrylate) adsorb on the surface of clays such as kaolinite in neutral solution. Ad-sorption is increased by addition of electrolyte (NaCl) to the solution (19). Generally researchers in this field agree that flocculation occurs by a process of adsorption of polymers on, and of bridging of polymer chains between solid particles. With cationic polymers , adsorption on negatively charged solid particles and consequent flocculation occur by simple electrostatic attraction. With nonionic polymers (such as the starches) it has been proposed (15) that adsorption and flocculation occur via hydrogen bonding between the solid surfaces and the hydroxyl groups on the polymer. However, the fact that anionic-i.e., carboxylic-polyelectrolytes adsorb on and flocculate negatively charged solids such as clays is more difficult to explain, since it would be expected that electrostatic repulsion between the similarly charged solid and polymer would prevent adsorption. KAOLINITE STRUCTURE AND PROPERTIES Kaolinite is a naturally occurring two-layer aluminosilicate whose composition, crystallographic structure, and physical properties are well defined. The pure mineral has a low but measurable cation exchange capacity and, thus, evidently contains a number of negatively charged sites on its surface, the exact nature or location of which is in dispute. Some evidence (10) indicates that these sites are located on the fractured edges of the crystals and are due to surface ionization brought about by unbalanced electrical forces. It has also been postulated (4) that exchange sites develop on the planar surfaces due to ionization of OH groups attached to the weakly acidic aluminum or silicon. The cation exchange capacity of kaolinite is quite variable depending on the source of the mineral, its particle size, and the pH of the environment in which ion exchange is measured. The exchange capacity increases with increasing specific surface area-i.e., decreasing particle size-and also with increasing pH of the solution in which the clay is suspended, because both alumina and silica behave as weak acids whose degree of ioniza-tion is favored by reduction in hydrogen ion concentration. However, even in rather strongly acid solutions, pH 3 to 4, cation exchange can occur, indicating that some of the anionic sites on the particle surfaces behave as rather strong acids. However, in very strongly acidic solutions, pH &#x3D; 2 or below, kaolinite adsorbs or exchanges anions (SI). This is believed to be caused by the amphoteric nature of alumina, which will coordinate with hydronium ions rather than hydroxyl ions in strongly acid solution -, Al-OH + H30+-, Al-OH2 + + H20 Schofield (SI) has postulated that cationic sites of this nature are present on the edges of kaolinite particles even at a relatively high pH, 9.0 or less, although the evidence supporting this is not complete. Natural kaolinite, containing exchangeable calcium, magnesium, or other foreign cations, can be converted to the so-called hydrogen form by electrodialysis of the mineral (in aqueous suspension) against distilled water. This hydrogen-clay is quite free of foreign ions and uncontaminated by adsorbed leaching components. Such kaolinite forms fairly acidic suspensions, pH &#x3D; 4.5 and can be titrated with standard bases as a weak acid. Hydrogen kaolinite, when titrated with caustic soda to a pH of 7.0, will usually exhibit a cation exchange capacity of from 0 to 5 meq. per 100 grams. Considerable evidence (SI) supports the belief that a hydrogen kaolinite is not merely a form of the mineral in which the anionic exchange sites are satisfied by hydrogen ion, but that such a clay contains significant quantities of aluminum ion (extracted from the crystal edges, presumably), adsorbed on the particle surfaces. This aluminum can be removed from the clay by leaching with acidic salt solutions, pH &#x3D; 3. The precise manner in which this aluminum is held to the mineral is not clear, but it might be coordinated with hydroxyl groups on the surface or edges of the particles. Whether this extractable aluminum should be considered a normal constituent of the crystal structure or a foreign cation remains open to question. As a consequence of these surface properties, kaolinite behaves in aqueous suspension as an electrocratic colloidal system. At a high pH and in the presence of highly hydrated monovalent cat-ions, the particles carry a high net negative charge and are surrounded by a large diffuse double layer of balancing cations. At a relatively low pH or in the presence of polyvalent cations such as calcium, the net negative surface charge is low, and the double layer of counterbalancing cations is thin. The magnitude of the surface charge on kaolinite exerts an important influence on the state of aggregation of the particles in water; when this charge is high, electrostatic repulsion between particles causes the mineral to disperse readily and form stable suspen-sions, while \vhen the charge is low, the particles agglomerate in stable floes which separate rapidly from suspension. While the role of surface charge on the state of aggregation of kaolinite and other similar solids has been well demonstrated and clarified,</abstract>
+      <city>Cambridge</city>
+      <institution>Massachusetts Institute of Technology</institution>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>https:&#x2F;&#x2F;pubs.acs.org&#x2F;sharingguidelines</url>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Menon, Aditya
+          </author>
+          <author>
+            Póczos, Barnabás
+          </author>
+          <author>
+            Feinberg, Adam W.
+          </author>
+          <author>
+            Washburn, Newell R.
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Optimization of Silicone 3D Printing with Hierarchical Machine Learning</title>
+      </titles>
+      <dates>
+        <year>2019</year>
+          <pub-dates>
+            <date>8</date>
+          </pub-dates>
+      </dates>
+      <volume>6</volume>
+      <pages>181-189</pages>
+      <issue>4</issue>
+      <electronic-resource-num>10.1089&#x2F;3dp.2018.0088</electronic-resource-num>
+      <abstract>Additive manufacturing of soft materials requires optimization of printable inks, formulations of these feedstocks, and complex printing processes that must balance a large number of disparate but highly correlated variables. Here, hierarchical machine learning (HML) is applied to 3D printing of silicone elastomer via freeform reversible embedding (FRE), which is challenging because it involves depositing a Newtonian prepolymer liquid phase within a Bingham plastic support bath. The advantage of the HML algorithm is that it can predict the behavior of complex physical systems using sparse data sets through integration of physical modeling in a framework of statistical learning. Here, it is shown that this algorithm can be used to simultaneously optimize material, formulation, and processing variables. The FRE method for 3D printing silicone parts was optimized based on a training set with 38 trial runs. Compared with the previous results from iterative optimization approaches using design-of-experiment and steepest-ascent methods, HML increased printing speed by up to 2.5 × while retaining print fidelity and also identified a unique silicone formulation and printing parameters that had not been found previously through trial-and-error approaches. These results indicate that HML is an effective tool with the potential for broad application for planning and optimizing in additive manufacturing of soft materials via the FRE method.</abstract>
+      <publisher>Mary Ann Liebert Inc.</publisher>
+      <periodical><full-title>3D Printing and Additive Manufacturing</full-title></periodical>
+      <keywords>
+        <keyword>3D printing</keyword>
+        <keyword>additive manufacturing</keyword>
+        <keyword>design tool</keyword>
+        <keyword>machine learning</keyword>
+        <keyword>optimization</keyword>
+        <keyword>polymer</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Dolganov, Aleksei
+          </author>
+          <author>
+            Bishop, Matthew T
+          </author>
+          <author>
+            Chen, George Z
+          </author>
+          <author>
+            Hu, Di
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Rheological Study and Printability Investigation of Titania Inks for Direct Ink Writing Process</title>
+      </titles>
+      <abstract>Titanium dioxide is widely used in numerous industries and with the newly developed titanium manufacturing technic, referred to as the Near-net-shape Electrochemical Metallisation (NEM)</abstract>
+      <keywords>
+        <keyword>Direct Ink Writing</keyword>
+        <keyword>Rheology</keyword>
+        <keyword>Titania</keyword>
+        <keyword>Titanium Dioxide</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="thesis"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Van Heugten, W G N
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Shape and Stability of Liquid Threads and Jets: A Link to Droplet Formation</title>
+      </titles>
+      <dates>
+        <year>2015</year>
+      </dates>
+      <institution>Wageningen University</institution>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Cordonier, G. J.
+          </author>
+          <author>
+            Sierros, K. A.
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Unconventional Application of Direct Ink Writing: Surface Force-Driven Patterning of Low Viscosity Inks</title>
+      </titles>
+      <dates>
+        <year>2020</year>
+          <pub-dates>
+            <date>4</date>
+          </pub-dates>
+      </dates>
+      <volume>12</volume>
+      <pages>15875-15884</pages>
+      <issue>13</issue>
+      <accession-num>32176467</accession-num>
+      <electronic-resource-num>10.1021&#x2F;acsami.9b22976</electronic-resource-num>
+      <abstract>A new concept for the direct ink writing (DIW) of model titanium dioxide inks through capillary action (no applied pressure during printing) is investigated through the use of diluted low viscosity inks for micropatterning. The inks are characterized with respect to rheological, thermal, and surface properties. Printed structures are characterized by profilometry, atomic force microscopy (AFM), scanning electron microscopy (SEM), and photocatalytic degradation of methylene blue. By use of the concept of surface force-driven DIW and by control of the writing speed and ink composition for different substrate surfaces, the heights of profiles of printed structures can be tailored from under 100 nm to over 1 μm. Furthermore, it is demonstrated that the surface roughness of the titanium dioxide films can be reduced up to 60% by increasing writing speed and line-to-line spacing. This work highlights a new concept of low viscosity solution micropatterning that currently can only be performed by other methods such as inkjet printing. It is believed that this novel approach will hold the key to patterning a range of low viscosity inks for various thin film technological applications.</abstract>
+      <publisher>American Chemical Society</publisher>
+      <periodical><full-title>ACS Applied Materials and Interfaces</full-title></periodical>
+      <keywords>
+        <keyword>direct ink writing</keyword>
+        <keyword>micropatterning</keyword>
+        <keyword>surface texturing</keyword>
+        <keyword>thin films</keyword>
+        <keyword>titanium dioxide</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Xu, Jiawen
+          </author>
+          <author>
+            Zhang, Xinghao
+          </author>
+          <author>
+            Liu, Yu
+          </author>
+          <author>
+            Zhang, Yang
+          </author>
+          <author>
+            Nie, Heng Yong
+          </author>
+          <author>
+            Zhang, Gaoyang
+          </author>
+          <author>
+            Gao, Weilian
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Selective coaxial ink 3D printing for single-pass fabrication of smart elastomeric foam with embedded stretchable sensor</title>
+      </titles>
+      <dates>
+        <year>2020</year>
+          <pub-dates>
+            <date>12</date>
+          </pub-dates>
+      </dates>
+      <volume>36</volume>
+      <electronic-resource-num>10.1016&#x2F;j.addma.2020.101487</electronic-resource-num>
+      <abstract>Cellular materials are playing a critical role in a vast number of smart applications. Latest advances in additive manufacturing have catalyzed the structural metaproperties of the cellular materials. However, a major challenge remains for straightforward and rapid fabrication of smart cellular foams with embedded sensors while minimizing negative impacts on their mechanical performances. In this work, a selective coaxial ink 3D printing method is disclosed for manufacturing a smart elastomer cellular foam at a single pass, with its capability of precisely assigning a core–shell fiber segment as a strain sensor inside the cellular structure. Mechanical test results on these core–shell fiber segments point out that higher sensitivity can be obtained upon tension rather than compression. Therefore, in consideration of the effects of cellular structure i.e. face centered tetragonal (FCT) and simple cubic (SC), it is revealed that the FCT structure outperforms with a much higher strain sensitivity. By assigning different number of cellular layers and tuning the line spacing inside the cellular structure, the mechanical effects with embedding the sensor in the smart foam are assessed and increasing the line spacing might increase the sensitivity but will degrade the repeatability. In final, the stretching performance of the smart foam is studied, and its application is demonstrated.</abstract>
+      <publisher>Elsevier B.V.</publisher>
+      <periodical><full-title>Additive Manufacturing</full-title></periodical>
+      <keywords>
+        <keyword>Coaxial ink 3D printing</keyword>
+        <keyword>Embedded strain sensor</keyword>
+        <keyword>Selective deposition</keyword>
+        <keyword>Smart elastomeric cellular material</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Taymour, Rania
+          </author>
+          <author>
+            Kilian, David
+          </author>
+          <author>
+            Ahlfeld, Tilman
+          </author>
+          <author>
+            Gelinsky, Michael
+          </author>
+          <author>
+            Lode, Anja
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>3D bioprinting of hepatocytes: core–shell structured co-cultures with fibroblasts for enhanced functionality</title>
+      </titles>
+      <dates>
+        <year>2021</year>
+          <pub-dates>
+            <date>12</date>
+          </pub-dates>
+      </dates>
+      <volume>11</volume>
+      <issue>1</issue>
+      <accession-num>33664366</accession-num>
+      <electronic-resource-num>10.1038&#x2F;s41598-021-84384-6</electronic-resource-num>
+      <abstract>With the aim of understanding and recapitulating cellular interactions of hepatocytes in their physiological microenvironment and to generate an artificial 3D in vitro model, a co-culture system using 3D extrusion bioprinting was developed. A bioink based on alginate and methylcellulose (algMC) was first shown to be suitable for bioprinting of hepatocytes; the addition of Matrigel to algMC enhanced proliferation and morphology of them in monophasic scaffolds. Towards a more complex system that allows studying cellular interactions, we applied core–shell bioprinting to establish tailored 3D co-culture models for hepatocytes. The bioinks were specifically functionalized with natural matrix components (based on human plasma, fibrin or Matrigel) and used to co-print fibroblasts and hepatocytes in a spatially defined, coaxial manner. Fibroblasts acted as supportive cells for co-cultured hepatocytes, stimulating the expression of certain biomarkers of hepatocytes like albumin. Furthermore, matrix functionalization positively influenced both cell types in their respective compartments by enhancing their adhesion, viability, proliferation and function. In conclusion, we established a functional co-culture model with independently tunable compartments for different cell types via core–shell bioprinting. This provides the basis for more complex in vitro models allowing co-cultivation of hepatocytes with other liver-specific cell types to closely resemble the liver microenvironment.</abstract>
+      <publisher>Nature Research</publisher>
+      <periodical><full-title>Scientific Reports</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Hinton, Thomas J.
+          </author>
+          <author>
+            Jallerat, Quentin
+          </author>
+          <author>
+            Palchesko, Rachelle N.
+          </author>
+          <author>
+            Park, Joon Hyung
+          </author>
+          <author>
+            Grodzicki, Martin S.
+          </author>
+          <author>
+            Shue, Hao Jan
+          </author>
+          <author>
+            Ramadan, Mohamed H.
+          </author>
+          <author>
+            Hudson, Andrew R.
+          </author>
+          <author>
+            Feinberg, Adam W.
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Three-dimensional printing of complex biological structures by freeform reversible embedding of suspended hydrogels</title>
+      </titles>
+      <dates>
+        <year>2015</year>
+          <pub-dates>
+            <date>10</date>
+          </pub-dates>
+      </dates>
+      <volume>1</volume>
+      <issue>9</issue>
+      <electronic-resource-num>10.1126&#x2F;sciadv.1500758</electronic-resource-num>
+      <abstract>We demonstrate the additive manufacturing of complex three-dimensional (3D) biological structures using soft protein and polysaccharide hydrogels that are challenging or impossible to create using traditional fabrication approaches. These structures are built by embedding the printed hydrogel within a secondary hydrogel that serves as a temporary, thermoreversible, and biocompatible support. This process, termed freeform reversible embedding of suspended hydrogels, enables 3D printing of hydrated materials with an elastic modulus &lt;500 kPa including alginate, collagen, and fibrin. Computer-aided design models of 3D optical, computed tomography, and magnetic resonance imaging data were 3D printed at a resolution of ~200 mm and at low cost by leveraging open-source hardware and software tools. Proof-of-concept structures based on femurs, branched coronary arteries, trabeculated embryonic hearts, and human brains were mechanically robust and recreated complex 3D internal and external anatomical architectures.</abstract>
+      <publisher>American Association for the Advancement of Science</publisher>
+      <periodical><full-title>Science Advances</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Wang, Weiren
+          </author>
+          <author>
+            Jiang, Xue
+          </author>
+          <author>
+            Tian, Shaohan
+          </author>
+          <author>
+            Liu, Pei
+          </author>
+          <author>
+            Dang, Depeng
+          </author>
+          <author>
+            Su, Yanjing
+          </author>
+          <author>
+            Lookman, Turab
+          </author>
+          <author>
+            Xie, Jianxin
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Automated pipeline for superalloy data by text mining</title>
+      </titles>
+      <dates>
+        <year>2022</year>
+          <pub-dates>
+            <date>12</date>
+          </pub-dates>
+      </dates>
+      <volume>8</volume>
+      <issue>1</issue>
+      <electronic-resource-num>10.1038&#x2F;s41524-021-00687-2</electronic-resource-num>
+      <abstract>Data provides a foundation for machine learning, which has accelerated data-driven materials design. The scientific literature contains a large amount of high-quality, reliable data, and automatically extracting data from the literature continues to be a challenge. We propose a natural language processing pipeline to capture both chemical composition and property data that allows analysis and prediction of superalloys. Within 3 h, 2531 records with both composition and property are extracted from 14,425 articles, covering γ′ solvus temperature, density, solidus, and liquidus temperatures. A data-driven model for γ′ solvus temperature is built to predict unexplored Co-based superalloys with high γ′ solvus temperatures within a relative error of 0.81%. We test the predictions via synthesis and characterization of three alloys. A web-based toolkit as an online open-source platform is provided and expected to serve as the basis for a general method to search for targeted materials using data extracted from the literature.</abstract>
+      <publisher>Nature Research</publisher>
+      <periodical><full-title>npj Computational Materials</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Shao, Yuanrui
+          </author>
+          <author>
+            Han, Ruijie
+          </author>
+          <author>
+            Quan, Xudong
+          </author>
+          <author>
+            Niu, Kangmin
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Study on ink flow of silicone rubber for direct ink writing</title>
+      </titles>
+      <dates>
+        <year>2021</year>
+          <pub-dates>
+            <date>9</date>
+          </pub-dates>
+      </dates>
+      <volume>138</volume>
+      <issue>33</issue>
+      <electronic-resource-num>10.1002&#x2F;app.50819</electronic-resource-num>
+      <abstract>Direct ink writing of soft materials is a very promising technology in 3D printing, and the rheological properties of inks are crucial for successful printing. In this paper, the effect of the rheological properties on the printing process of silicone rubber inks is studied to lay a foundation for the configurations of 3D printing process parameters. Also, the shape retention of the printing filaments is studied to provide a basis for the viscosity deployment of the inks. In addition, by studying the die swell ratio of nano-silica-reinforced silicone rubber inks at normal printing speed, it is found that the die-swell ratio is proportional to the ink&#39;s relaxation time. Finally, the influence of the configuration of the short-nozzle on the die swell is investigated, and the concave nozzle has a smaller extrusion swelling effect than the convex nozzle and the conical nozzle, providing new ideas for the adjustment of the filament diameter.</abstract>
+      <publisher>John Wiley and Sons Inc</publisher>
+      <periodical><full-title>Journal of Applied Polymer Science</full-title></periodical>
+      <keywords>
+        <keyword>extrusion</keyword>
+        <keyword>manufacturing</keyword>
+        <keyword>rheology</keyword>
+        <keyword>swelling</keyword>
+        <keyword>viscosity and viscoelasticity</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Singh, Bimal P.
+          </author>
+          <author>
+            Menchavez, Ruben
+          </author>
+          <author>
+            Takai, Chika
+          </author>
+          <author>
+            Fuji, Masayoshi
+          </author>
+          <author>
+            Takahashi, Minoru
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Stability of dispersions of colloidal alumina particles in aqueous suspensions</title>
+      </titles>
+      <dates>
+        <year>2005</year>
+          <pub-dates>
+            <date>11</date>
+          </pub-dates>
+      </dates>
+      <volume>291</volume>
+      <pages>181-186</pages>
+      <issue>1</issue>
+      <accession-num>15964586</accession-num>
+      <electronic-resource-num>10.1016&#x2F;j.jcis.2005.04.091</electronic-resource-num>
+      <abstract>The colloidal stability of suspensions of alumina particles has been investigated by measuring particle size distribution, sedimentation, viscosity, and zeta potential. Alumina particles were found to be optimally dispersed at pH around 3 to 7.8 without dispersant and at pH 8.5 and beyond with dispersant. The above results corroborate zeta potential and viscosity measurement data well. The surface charge of alumina powder changed significantly with anionic polyelectrolyte (ammonium polycarboxylate, APC) and the iep shifted toward more acidic range under different dispersant conditions. It was found that the essential role played by pH and dispersant (APC) on the charge generation and shift in the isoelectric point of alumina manifests two features: (i) the stability decreases on approaching the isoelectric point from either side of pH, and (ii) the maximum instability was found at pH 9.1 for alumina only and at pH 6.8 for alumina&#x2F;APC, which is close to the isoelectric points for both the system, respectively. Using the model based on the electrical double-layer theory of surfactant adsorption through shift in isoelectric points, the authors could estimate the specific free energy of interaction (7.501 kcal&#x2F;mol) between particles and dispersant. The interaction energy, zeta potential, sedimentation, and viscosity results, were used to explain the colloidal stability of the suspension. © 2005 Elsevier Inc. All rights reserved.</abstract>
+      <periodical><full-title>Journal of Colloid and Interface Science</full-title></periodical>
+      <keywords>
+        <keyword>Alumina</keyword>
+        <keyword>Dispersion volume</keyword>
+        <keyword>Isoelectric point</keyword>
+        <keyword>Specific interaction energy</keyword>
+        <keyword>Zeta potential</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Jingjing, Mao
+          </author>
+          <author>
+            Jianming, Li
+          </author>
+          <author>
+            Jianwei, Qiu
+          </author>
+          <author>
+            Lijun, Liu
+          </author>
+          <author>
+            Yue, Wang
+          </author>
+          <author>
+            Lijiuan, Zhang
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>The Investigation on Rheology and Microstructure for Lithium Complex Grease</title>
+      </titles>
+      <dates>
+        <year>2019</year>
+          <pub-dates>
+            <date>9</date>
+          </pub-dates>
+      </dates>
+      <volume>2</volume>
+      <pages>p54</pages>
+      <issue>2</issue>
+      <electronic-resource-num>10.22158&#x2F;ees.v2n2p54</electronic-resource-num>
+      <abstract>The rheological characteristic parameters of five lithium complex lubricating greases were determined. The comparison of rheological characteristic parameters and microstructure of the five greases was made. The results showed that the knowledge of the rheological properties of lubricating greases may contribute to reflect the change of the thickener structure. The flow transition index characterized the breaking behavior of inner structure of grease, the greater this index, the better that soap fiber structure of grease; The damping factor was shifted from a medium range towards a lower value which resulted in brittle character of sample. At a constant shear rate, the soap fiber structure of complex lithium grease is dense and uniform, apparent viscosity decline rate is small. In this sense, it is relevant to understand how the development of the soap fiber structures in the grease contributes to several functional and rheological properties of lubricating greases.</abstract>
+      <publisher>Scholink Co, Ltd.</publisher>
+      <periodical><full-title>Energy and Earth Science</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Guo, Xing Zhong
+          </author>
+          <author>
+            Yang, Hui
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Sintering and microstructure of silicon carbide ceramic with Y3Al5O12 added by sol-gel method</title>
+      </titles>
+      <dates>
+        <year>2005</year>
+          <pub-dates>
+            <date>3</date>
+          </pub-dates>
+      </dates>
+      <volume>6 B</volume>
+      <pages>213-218</pages>
+      <issue>3</issue>
+      <accession-num>15682507</accession-num>
+      <electronic-resource-num>10.1631&#x2F;jzus.2005.B0213</electronic-resource-num>
+      <abstract>Silicon carbide (SiC) ceramic with YAG (Y3Al5O12) additive added by sol-gel method was liquid-phase sintered at different sintering temperatures, and the sintering mechanism and microstructural characteristics of resulting silicon carbide ceramics were analyzed by X-ray diffraction (XRD), scanning electron microscopy (SEM) and elemental distribution of surface (EDS). YAG (yttrium aluminum garnet) phase formed before the sintering and its uniform distribution in the SiC&#x2F;YAG composite powder decreased the sintering temperature and improved the densification of SiC ceramic. The suitable sintering temperature was 1860°C with the specimen sintered at this temperature having superior sintering and mechanical properties, smaller crystal size and fewer microstructure defects. Three characteristics of improved toughness of SiC ceramic with YAG added by sol-gel method were microstructural densification, main-crack deflection and crystal bridging.</abstract>
+      <periodical><full-title>Journal of Zhejiang University: Science</full-title></periodical>
+      <keywords>
+        <keyword>Ceramic</keyword>
+        <keyword>Silicon carbide</keyword>
+        <keyword>Sol-gel</keyword>
+        <keyword>Yttrium aluminum garnet (YAG)</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Reich, Brian J.
+          </author>
+          <author>
+            Storlie, Curtis B.
+          </author>
+          <author>
+            Bondell, Howard D.
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Variable selection in Bayesian smoothing spline ANOVA models: Application to deterministic computer codes</title>
+      </titles>
+      <dates>
+        <year>2009</year>
+          <pub-dates>
+            <date>5</date>
+          </pub-dates>
+      </dates>
+      <volume>51</volume>
+      <pages>110-120</pages>
+      <issue>2</issue>
+      <electronic-resource-num>10.1198&#x2F;TECH.2009.0013</electronic-resource-num>
+      <abstract>With many predictors, choosing an appropriate subset of the covariates is a crucial-and difficult-step in nonparametric regression. We propose a Bayesian nonparametric regression model for curve fitting and variable selection. We use the smoothing splines ANOVA framework to decompose the regression function into interpretable main effect and interaction functions, and use stochastic search variable selection through Markov chain Monte Carlo sampling to search for models that fit the data well. We also show that variable selection is highly sensitive to hyperparameter choice, and develop a technique for selecting hyperparameters that control the long-run false-positive rate. We use our method to build an emulator for a complex computer model for two-phase fluid flow. © 2009 American Statistical Association and the American Society for Quality.</abstract>
+      <periodical><full-title>Technometrics</full-title></periodical>
+      <keywords>
+        <keyword>Bayesian hierarchical modeling</keyword>
+        <keyword>Markov chain Monte Carlo</keyword>
+        <keyword>Nonparametric regression</keyword>
+        <keyword>Smoothing splines ANOVA</keyword>
+        <keyword>Variable selection</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Yan, Rongen
+          </author>
+          <author>
+            Jiang, Xue
+          </author>
+          <author>
+            Wang, Weiren
+          </author>
+          <author>
+            Dang, Depeng
+          </author>
+          <author>
+            Su, Yanjing
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Materials information extraction via automatically generated corpus</title>
+      </titles>
+      <dates>
+        <year>2022</year>
+          <pub-dates>
+            <date>12</date>
+          </pub-dates>
+      </dates>
+      <volume>9</volume>
+      <issue>1</issue>
+      <accession-num>35831367</accession-num>
+      <electronic-resource-num>10.1038&#x2F;s41597-022-01492-2</electronic-resource-num>
+      <abstract>Information Extraction (IE) in Natural Language Processing (NLP) aims to extract structured information from unstructured text to assist a computer in understanding natural language. Machine learning-based IE methods bring more intelligence and possibilities but require an extensive and accurate labeled corpus. In the materials science domain, giving reliable labels is a laborious task that requires the efforts of many professionals. To reduce manual intervention and automatically generate materials corpus during IE, in this work, we propose a semi-supervised IE framework for materials via automatically generated corpus. Taking the superalloy data extraction in our previous work as an example, the proposed framework using Snorkel automatically labels the corpus containing property values. Then Ordered Neurons-Long Short-Term Memory (ON-LSTM) network is adopted to train an information extraction model on the generated corpus. The experimental results show that the F1-score of γ’ solvus temperature, density and solidus temperature of superalloys are 83.90%, 94.02%, 89.27%, respectively. Furthermore, we conduct similar experiments on other materials, the experimental results show that the proposed framework is universal in the field of materials.</abstract>
+      <publisher>Nature Research</publisher>
+      <periodical><full-title>Scientific Data</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Fuchs, Matthias
+          </author>
+          <author>
+            Cates, Michael E
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Schematic models for dynamic yielding of sheared colloidal glasses</title>
+      </titles>
+      <dates>
+        <year>2002</year>
+      </dates>
+      <abstract>The nonlinear rheological properties of dense suspensions are discussed within simplified models , suggested by a recent first principles approach to the model of Brownian particles in a constant-velocity-gradient solvent flow. Shear thinning of colloidal fluids and dynamical yielding of colloidal glasses arise from a competition between a slowing down of structural relaxation, because of particle interactions, and enhanced decorrelation of fluctuations, caused by the shear advection of density fluctuations. A mode coupling approach is developed to explore the shear-induced suppression of particle caging and the resulting speed-up of the structural relaxation.</abstract>
+      <periodical><full-title>Condensed Soft Matter</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Marnot, Alexandra
+          </author>
+          <author>
+            Dobbs, Alexandra
+          </author>
+          <author>
+            Brettmann, Blair
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Material extrusion additive manufacturing of dense pastes consisting of macroscopic particles</title>
+      </titles>
+      <dates>
+        <year>2022</year>
+          <pub-dates>
+            <date>10</date>
+          </pub-dates>
+      </dates>
+      <volume>12</volume>
+      <pages>483-494</pages>
+      <issue>5</issue>
+      <electronic-resource-num>10.1557&#x2F;s43579-022-00209-1</electronic-resource-num>
+      <abstract>Additive manufacturing of dense pastes, those with greater than 50 vol% particles, via material extrusion direct ink write is a promising method to produce customized structures for high-performance materials, such as energetic materials and pharmaceuticals, as well as to enable the use of waste or other locally available particles. However, the high volume fraction and the large sizes of the particles for these applications lead to significant challenges in developing inks and processing methods to prepare quality parts. In this prospective, we analyze challenges in managing particle characteristics, stabilizing the suspensions, mixing the particles and binder, and 3D printing the pastes.</abstract>
+      <publisher>Springer Nature</publisher>
+      <periodical><full-title>MRS Communications</full-title></periodical>
+      <keywords>
+        <keyword>3D printing</keyword>
+        <keyword>Additive manufacturing</keyword>
+        <keyword>Composite</keyword>
+        <keyword>Mixture</keyword>
+        <keyword>Particulate</keyword>
+        <keyword>Paste</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Wilms, Patrick
+          </author>
+          <author>
+            Hinrichs, Jörg
+          </author>
+          <author>
+            Kohlus, Reinhard
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Macroscopic rheology of non-Brownian suspensions at high shear rates: the influence of solid volume fraction and non-Newtonian behaviour of the liquid phase</title>
+      </titles>
+      <dates>
+        <year>2022</year>
+          <pub-dates>
+            <date>2</date>
+          </pub-dates>
+      </dates>
+      <volume>61</volume>
+      <pages>123-138</pages>
+      <issue>2</issue>
+      <electronic-resource-num>10.1007&#x2F;s00397-021-01320-1</electronic-resource-num>
+      <abstract>Modelling the macroscopic rheology of non-Brownian suspensions is complicated by the non-linear behaviour that originates from the interaction between solid particles and the liquid phase. In this contribution, a model is presented that describes suspension rheology as a function of solid volume fraction and shear rate dependency of both the liquid phase, as well as the suspension as a whole. It is experimentally validated using rotational rheometry (φ ≤ 0.40) and capillary rheometry (0.55 ≤ φ ≤ 0.60) at shear rates &gt; 50 s−1. A modified Krieger-Dougherty relation was used to describe the influence of solid volume fraction on the consistency coefficient, K, and was fitted to suspensions with a shear thinning liquid phase, i.e. having a flow index, n, of 0.50. With the calculated fit parameters, it was possible to predict the consistency coefficients of suspensions with a large variation in the shear rate dependency of the liquid phase (n &#x3D; 0.20–1.00). With increasing solid volume fraction, the flow indices of the suspensions were found to decrease for Newtonian and mildly shear thinning liquid phases (n ≥0.50), whereas they were found to increase for strongly shear thinning liquid phases (n ≤0.27). It is hypothesized that this is related to interparticle friction and the relative contribution of friction forces to the viscosity of the suspension. The proposed model is a step towards the prediction of the flow curves of concentrated suspensions with non-Newtonian liquid phases at high shear rates.</abstract>
+      <publisher>Springer Science and Business Media Deutschland GmbH</publisher>
+      <periodical><full-title>Rheologica Acta</full-title></periodical>
+      <keywords>
+        <keyword>Capillary rheometry</keyword>
+        <keyword>Concentrated suspension</keyword>
+        <keyword>Extrusion</keyword>
+        <keyword>Flow curve</keyword>
+        <keyword>Krieger-Dougherty</keyword>
+        <keyword>Shear thinning</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Wilt, Jackson K.
+          </author>
+          <author>
+            Gilmer, Dustin
+          </author>
+          <author>
+            Kim, Sungjin
+          </author>
+          <author>
+            Compton, Brett G.
+          </author>
+          <author>
+            Saito, Tomonori
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Direct ink writing techniques for in situ gelation and solidification</title>
+      </titles>
+      <dates>
+        <year>2021</year>
+          <pub-dates>
+            <date>4</date>
+          </pub-dates>
+      </dates>
+      <volume>11</volume>
+      <pages>106-121</pages>
+      <issue>2</issue>
+      <electronic-resource-num>10.1557&#x2F;s43579-020-00006-8</electronic-resource-num>
+      <abstract>Direct ink writing (DIW) is an extrusion-based 3D printing method which prints near ambient temperatures and has one of the broadest printable material selections among additive manufacturing techniques. However, DIW uses viscoelastic materials susceptible to collapse during printing. One promising route to improve the structural integrity of viscoelastic inks is using in situ curing methods to increase the yield strength of the printed structures after deposition. This review summarizes progress in three representative methods of in situ curing for DIW, including ultra-violet-induced crosslinking, rapid cure of reactive ingredients, and flash vaporization of a solution’s solvent to coagulate dissolved polymers.</abstract>
+      <publisher>Springer Nature</publisher>
+      <periodical><full-title>MRS Communications</full-title></periodical>
+      <keywords>
+        <keyword>3D printing</keyword>
+        <keyword>Direct ink writing</keyword>
+        <keyword>In situ</keyword>
+        <keyword>Photochemical</keyword>
+        <keyword>Solvent casting</keyword>
+      </keywords>
+      <urls>
+        <related-urls>
+        </related-urls>
+      </urls>
+    </record>
+    <record>
+      <ref-type name="Journal Article"></ref-type>
+      <contributors>
+        <authors>
+          <author>
+            Jørgensen, Loren
+          </author>
+          <author>
+            Merrer, Marie Le
+          </author>
+          <author>
+            Delanoë-Ayari, Hélène
+          </author>
+          <author>
+            Barentin, Catherine
+          </author>
+        </authors>
+        <secondary-authors>
+        </secondary-authors>
+      </contributors>
+      <titles>
+        <title>Yield stress and elasticity influence on surface tension measurements</title>
+      </titles>
+      <dates>
+        <year>2015</year>
+          <pub-dates>
+            <date>6</date>
+          </pub-dates>
+      </dates>
+      <electronic-resource-num>10.1039&#x2F;c5sm00569h</electronic-resource-num>
+      <abstract>We have performed surface tension measurements on carbopol gels of different concentrations and yield stresses. Our setup, based on the force exerted by a capillary bridge on two parallel plates, allows to measure an effective surface tension of the complex fluid and to investigate the influence of flow history. More precisely the effective surface tension measured after stretching the bridge is always higher than after compressing it. The difference between the two values is due to the existence of a yield stress in the fluid. The experimental observations are successfully reproduced with a simple elasto-plastic model. The shape of successive stretching-compression cycles can be described by taking into account the yield stress and the elasticity of the gel. We show that the surface tension $\gamma_{LV}$ of yield stress fluids is the mean of the effective surface tension values only if the elastic modulus is high compared to the yield stress. This work highlights that thermodynamical quantities measurements are challenged by the fluid out-of-equilibrium state implied by jamming, even at small scales where the shape of the bridge is driven by surface energy. Therefore setups allowing deformation in opposite directions are relevant for measurements on yield stress fluids.</abstract>
+      <periodical><full-title>Condensed Soft Matter</full-title></periodical>
+      <keywords>
+      </keywords>
+      <urls>
+        <related-urls>
+          <url>http:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;1506.01622</url>
+          <url>http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1039&#x2F;c5sm00569h</url>
+        </related-urls>
+      </urls>
+    </record>
+  </records>
+</xml>

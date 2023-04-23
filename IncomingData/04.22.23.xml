@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Tuning the 3d printability and thermomechanical properties of radiation shields</b:Title>
+    <b:Year>2021</b:Year>
+    <b:Month>10</b:Month>
+    <b:StandardNumber>20734360</b:StandardNumber>
+    <b:Publisher>MDPI</b:Publisher>
+    <b:JournalName>Polymers</b:JournalName>
+    <b:Volume>13</b:Volume>
+    <b:Issue>19</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Zachary</b:First>
+            <b:Last>Brounstein</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jianchao</b:First>
+            <b:Last>Zhao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jeffrey</b:First>
+            <b:Last>Wheat</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andrea</b:First>
+            <b:Last>Labouriau</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>tuning-the-3d-printability-and-thermomechanical-properties-of-radiation-shields</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Printability of 3D printed hydrogel scaffolds: Influence of hydrogel composition and printing parameters</b:Title>
+    <b:Year>2020</b:Year>
+    <b:Month>1</b:Month>
+    <b:StandardNumber>20763417</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:JournalName>Applied Sciences (Switzerland)</b:JournalName>
+    <b:Volume>10</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Saman</b:First>
+            <b:Last>Naghieh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>M. D.</b:First>
+            <b:Last>Sarker</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>N. K.</b:First>
+            <b:Last>Sharma</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zohra</b:First>
+            <b:Last>Barhoumi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xiongbiao</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>printability-of-3d-printed-hydrogel-scaffolds:-influence-of-hydrogel-composition-and-printing-parameters</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Prediction of surface roughness in extrusion-based additive manufacturing with machine learning</b:Title>
+    <b:Year>2019</b:Year>
+    <b:Month>6</b:Month>
+    <b:StandardNumber>07365845</b:StandardNumber>
+    <b:Publisher>Elsevier Ltd</b:Publisher>
+    <b:Pages>488-495</b:Pages>
+    <b:JournalName>Robotics and Computer-Integrated Manufacturing</b:JournalName>
+    <b:Volume>57</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Zhixiong</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ziyang</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Junchuan</b:First>
+            <b:Last>Shi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dazhong</b:First>
+            <b:Last>Wu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>prediction-of-surface-roughness-in-extrusion-based-additive-manufacturing-with-machine-learning</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Reviews on machine learning approaches for process optimization in noncontact direct ink writing</b:Title>
+    <b:Year>2021</b:Year>
+    <b:Month>11</b:Month>
+    <b:StandardNumber>19448252</b:StandardNumber>
+    <b:Publisher>American Chemical Society</b:Publisher>
+    <b:Pages>53323-53345</b:Pages>
+    <b:JournalName>ACS Applied Materials and Interfaces</b:JournalName>
+    <b:Volume>13</b:Volume>
+    <b:Issue>45</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Haining</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Seung Ki</b:First>
+            <b:Last>Moon</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>reviews-on-machine-learning-approaches-for-process-optimization-in-noncontact-direct-ink-writing</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Robocasting of structural ceramic parts with hydrogel inks</b:Title>
+    <b:Year>2016</b:Year>
+    <b:Month>8</b:Month>
+    <b:StandardNumber>1873619X</b:StandardNumber>
+    <b:Publisher>Elsevier Ltd</b:Publisher>
+    <b:Pages>2525-2533</b:Pages>
+    <b:JournalName>Journal of the European Ceramic Society</b:JournalName>
+    <b:Volume>36</b:Volume>
+    <b:Issue>10</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ezra</b:First>
+            <b:Last>Feilden</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Esther García Tuñón</b:First>
+            <b:Last>Blanca</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Finn</b:First>
+            <b:Last>Giuliani</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Eduardo</b:First>
+            <b:Last>Saiz</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Luc</b:First>
+            <b:Last>Vandeperre</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>robocasting-of-structural-ceramic-parts-with-hydrogel-inks</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Rheological characterisation of ceramic inks for 3D direct ink writing: A review</b:Title>
+    <b:Year>2021</b:Year>
+    <b:Month>12</b:Month>
+    <b:StandardNumber>1873619X</b:StandardNumber>
+    <b:Publisher>Elsevier Ltd</b:Publisher>
+    <b:Pages>18-33</b:Pages>
+    <b:JournalName>Journal of the European Ceramic Society</b:JournalName>
+    <b:Volume>41</b:Volume>
+    <b:Issue>16</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Laura</b:First>
+            <b:Last>del-Mazo-Barbara</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Maria Pau</b:First>
+            <b:Last>Ginebra</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>rheological-characterisation-of-ceramic-inks-for-3d-direct-ink-writing:-a-review</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Rheological behavior of titania ink and mechanical properties of titania ceramic structures by 3D direct ink writing using high solid loading titania ceramic ink</b:Title>
+    <b:Year>2019</b:Year>
+    <b:Month>4</b:Month>
+    <b:StandardNumber>09258388</b:StandardNumber>
+    <b:Publisher>Elsevier Ltd</b:Publisher>
+    <b:Pages>321-328</b:Pages>
+    <b:JournalName>Journal of Alloys and Compounds</b:JournalName>
+    <b:Volume>783</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Tao</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Aihua</b:First>
+            <b:Last>Sun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chengyi</b:First>
+            <b:Last>Chu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Huansheng</b:First>
+            <b:Last>Wu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jiang</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jianye</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhixiang</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jianjun</b:First>
+            <b:Last>Guo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Gaojie</b:First>
+            <b:Last>Xu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>rheological-behavior-of-titania-ink-and-mechanical-properties-of-titania-ceramic-structures-by-3d-direct-ink-writing-using-high-solid-loading-titania-ceramic-ink</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Rheological behaviour of attractive emulsions differing in droplet-droplet interaction strength</b:Title>
+    <b:Year>2022</b:Year>
+    <b:Month>2</b:Month>
+    <b:StandardNumber>10957103</b:StandardNumber>
+    <b:Publisher>Academic Press Inc.</b:Publisher>
+    <b:Pages>389-400</b:Pages>
+    <b:JournalName>Journal of Colloid and Interface Science</b:JournalName>
+    <b:Volume>607</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Philipp L.</b:First>
+            <b:Last>Fuhrmann</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Swantje</b:First>
+            <b:Last>Breunig</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Guido</b:First>
+            <b:Last>Sala</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Leonard</b:First>
+            <b:Last>Sagis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Markus</b:First>
+            <b:Last>Stieger</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Elke</b:First>
+            <b:Last>Scholten</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>rheological-behaviour-of-attractive-emulsions-differing-in-droplet-droplet-interaction-strength</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Report</b:SourceType>
+    <b:Title>Polyelectrolyte Adsorption by Kaolinite</b:Title>
+    <b:Year>1955</b:Year>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>A S</b:First>
+            <b:Last>Michaels</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>O</b:First>
+            <b:Last>Morelos</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;pubs.acs.org&#x2F;sharingguidelines</b:URL>
+    <b:City>Cambridge</b:City>
+    <b:Tag>polyelectrolyte-adsorption-by-kaolinite</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Optimization of Silicone 3D Printing with Hierarchical Machine Learning</b:Title>
+    <b:Year>2019</b:Year>
+    <b:Month>8</b:Month>
+    <b:StandardNumber>23297670</b:StandardNumber>
+    <b:Publisher>Mary Ann Liebert Inc.</b:Publisher>
+    <b:Pages>181-189</b:Pages>
+    <b:JournalName>3D Printing and Additive Manufacturing</b:JournalName>
+    <b:Volume>6</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Aditya</b:First>
+            <b:Last>Menon</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Barnabás</b:First>
+            <b:Last>Póczos</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Adam W.</b:First>
+            <b:Last>Feinberg</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Newell R.</b:First>
+            <b:Last>Washburn</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>optimization-of-silicone-3d-printing-with-hierarchical-machine-learning</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Rheological Study and Printability Investigation of Titania Inks for Direct Ink Writing Process</b:Title>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Aleksei</b:First>
+            <b:Last>Dolganov</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Matthew T</b:First>
+            <b:Last>Bishop</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>George Z</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Di</b:First>
+            <b:Last>Hu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>rheological-study-and-printability-investigation-of-titania-inks-for-direct-ink-writing-process</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>thesis</b:SourceType>
+    <b:Title>Shape and Stability of Liquid Threads and Jets: A Link to Droplet Formation</b:Title>
+    <b:Year>2015</b:Year>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>W G N</b:First>
+            <b:Last>Van Heugten</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>shape-and-stability-of-liquid-threads-and-jets:-a-link-to-droplet-formation</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Unconventional Application of Direct Ink Writing: Surface Force-Driven Patterning of Low Viscosity Inks</b:Title>
+    <b:Year>2020</b:Year>
+    <b:Month>4</b:Month>
+    <b:StandardNumber>19448252</b:StandardNumber>
+    <b:Publisher>American Chemical Society</b:Publisher>
+    <b:Pages>15875-15884</b:Pages>
+    <b:JournalName>ACS Applied Materials and Interfaces</b:JournalName>
+    <b:Volume>12</b:Volume>
+    <b:Issue>13</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>G. J.</b:First>
+            <b:Last>Cordonier</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>K. A.</b:First>
+            <b:Last>Sierros</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>unconventional-application-of-direct-ink-writing:-surface-force-driven-patterning-of-low-viscosity-inks</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Selective coaxial ink 3D printing for single-pass fabrication of smart elastomeric foam with embedded stretchable sensor</b:Title>
+    <b:Year>2020</b:Year>
+    <b:Month>12</b:Month>
+    <b:StandardNumber>22148604</b:StandardNumber>
+    <b:Publisher>Elsevier B.V.</b:Publisher>
+    <b:JournalName>Additive Manufacturing</b:JournalName>
+    <b:Volume>36</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jiawen</b:First>
+            <b:Last>Xu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xinghao</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yu</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yang</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Heng Yong</b:First>
+            <b:Last>Nie</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Gaoyang</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Weilian</b:First>
+            <b:Last>Gao</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>selective-coaxial-ink-3d-printing-for-single-pass-fabrication-of-smart-elastomeric-foam-with-embedded-stretchable-sensor</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>3D bioprinting of hepatocytes: core–shell structured co-cultures with fibroblasts for enhanced functionality</b:Title>
+    <b:Year>2021</b:Year>
+    <b:Month>12</b:Month>
+    <b:StandardNumber>20452322</b:StandardNumber>
+    <b:Publisher>Nature Research</b:Publisher>
+    <b:JournalName>Scientific Reports</b:JournalName>
+    <b:Volume>11</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Rania</b:First>
+            <b:Last>Taymour</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>David</b:First>
+            <b:Last>Kilian</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tilman</b:First>
+            <b:Last>Ahlfeld</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michael</b:First>
+            <b:Last>Gelinsky</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Anja</b:First>
+            <b:Last>Lode</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>3d-bioprinting-of-hepatocytes:-core–shell-structured-co-cultures-with-fibroblasts-for-enhanced-functionality</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Three-dimensional printing of complex biological structures by freeform reversible embedding of suspended hydrogels</b:Title>
+    <b:Year>2015</b:Year>
+    <b:Month>10</b:Month>
+    <b:StandardNumber>23752548</b:StandardNumber>
+    <b:Publisher>American Association for the Advancement of Science</b:Publisher>
+    <b:JournalName>Science Advances</b:JournalName>
+    <b:Volume>1</b:Volume>
+    <b:Issue>9</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Thomas J.</b:First>
+            <b:Last>Hinton</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Quentin</b:First>
+            <b:Last>Jallerat</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rachelle N.</b:First>
+            <b:Last>Palchesko</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Joon Hyung</b:First>
+            <b:Last>Park</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Martin S.</b:First>
+            <b:Last>Grodzicki</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hao Jan</b:First>
+            <b:Last>Shue</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mohamed H.</b:First>
+            <b:Last>Ramadan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andrew R.</b:First>
+            <b:Last>Hudson</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Adam W.</b:First>
+            <b:Last>Feinberg</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>three-dimensional-printing-of-complex-biological-structures-by-freeform-reversible-embedding-of-suspended-hydrogels</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Automated pipeline for superalloy data by text mining</b:Title>
+    <b:Year>2022</b:Year>
+    <b:Month>12</b:Month>
+    <b:StandardNumber>20573960</b:StandardNumber>
+    <b:Publisher>Nature Research</b:Publisher>
+    <b:JournalName>npj Computational Materials</b:JournalName>
+    <b:Volume>8</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Weiren</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xue</b:First>
+            <b:Last>Jiang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shaohan</b:First>
+            <b:Last>Tian</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pei</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Depeng</b:First>
+            <b:Last>Dang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yanjing</b:First>
+            <b:Last>Su</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Turab</b:First>
+            <b:Last>Lookman</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jianxin</b:First>
+            <b:Last>Xie</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>automated-pipeline-for-superalloy-data-by-text-mining</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Study on ink flow of silicone rubber for direct ink writing</b:Title>
+    <b:Year>2021</b:Year>
+    <b:Month>9</b:Month>
+    <b:StandardNumber>10974628</b:StandardNumber>
+    <b:Publisher>John Wiley and Sons Inc</b:Publisher>
+    <b:JournalName>Journal of Applied Polymer Science</b:JournalName>
+    <b:Volume>138</b:Volume>
+    <b:Issue>33</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Yuanrui</b:First>
+            <b:Last>Shao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ruijie</b:First>
+            <b:Last>Han</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xudong</b:First>
+            <b:Last>Quan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kangmin</b:First>
+            <b:Last>Niu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>study-on-ink-flow-of-silicone-rubber-for-direct-ink-writing</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Stability of dispersions of colloidal alumina particles in aqueous suspensions</b:Title>
+    <b:Year>2005</b:Year>
+    <b:Month>11</b:Month>
+    <b:StandardNumber>00219797</b:StandardNumber>
+    <b:Pages>181-186</b:Pages>
+    <b:JournalName>Journal of Colloid and Interface Science</b:JournalName>
+    <b:Volume>291</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Bimal P.</b:First>
+            <b:Last>Singh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ruben</b:First>
+            <b:Last>Menchavez</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chika</b:First>
+            <b:Last>Takai</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Masayoshi</b:First>
+            <b:Last>Fuji</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Minoru</b:First>
+            <b:Last>Takahashi</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>stability-of-dispersions-of-colloidal-alumina-particles-in-aqueous-suspensions</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>The Investigation on Rheology and Microstructure for Lithium Complex Grease</b:Title>
+    <b:Year>2019</b:Year>
+    <b:Month>9</b:Month>
+    <b:StandardNumber>2578-1359</b:StandardNumber>
+    <b:Publisher>Scholink Co, Ltd.</b:Publisher>
+    <b:Pages>p54</b:Pages>
+    <b:JournalName>Energy and Earth Science</b:JournalName>
+    <b:Volume>2</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Mao</b:First>
+            <b:Last>Jingjing</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Li</b:First>
+            <b:Last>Jianming</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Qiu</b:First>
+            <b:Last>Jianwei</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Liu</b:First>
+            <b:Last>Lijun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Wang</b:First>
+            <b:Last>Yue</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhang</b:First>
+            <b:Last>Lijiuan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>the-investigation-on-rheology-and-microstructure-for-lithium-complex-grease</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Sintering and microstructure of silicon carbide ceramic with Y3Al5O12 added by sol-gel method</b:Title>
+    <b:Year>2005</b:Year>
+    <b:Month>3</b:Month>
+    <b:StandardNumber>10093095</b:StandardNumber>
+    <b:Pages>213-218</b:Pages>
+    <b:JournalName>Journal of Zhejiang University: Science</b:JournalName>
+    <b:Volume>6 B</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Xing Zhong</b:First>
+            <b:Last>Guo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hui</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>sintering-and-microstructure-of-silicon-carbide-ceramic-with-y3al5o12-added-by-sol-gel-method</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Variable selection in Bayesian smoothing spline ANOVA models: Application to deterministic computer codes</b:Title>
+    <b:Year>2009</b:Year>
+    <b:Month>5</b:Month>
+    <b:StandardNumber>00401706</b:StandardNumber>
+    <b:Pages>110-120</b:Pages>
+    <b:JournalName>Technometrics</b:JournalName>
+    <b:Volume>51</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Brian J.</b:First>
+            <b:Last>Reich</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Curtis B.</b:First>
+            <b:Last>Storlie</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Howard D.</b:First>
+            <b:Last>Bondell</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>variable-selection-in-bayesian-smoothing-spline-anova-models:-application-to-deterministic-computer-codes</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Materials information extraction via automatically generated corpus</b:Title>
+    <b:Year>2022</b:Year>
+    <b:Month>12</b:Month>
+    <b:StandardNumber>20524463</b:StandardNumber>
+    <b:Publisher>Nature Research</b:Publisher>
+    <b:JournalName>Scientific Data</b:JournalName>
+    <b:Volume>9</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Rongen</b:First>
+            <b:Last>Yan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xue</b:First>
+            <b:Last>Jiang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Weiren</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Depeng</b:First>
+            <b:Last>Dang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yanjing</b:First>
+            <b:Last>Su</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>materials-information-extraction-via-automatically-generated-corpus</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Schematic models for dynamic yielding of sheared colloidal glasses</b:Title>
+    <b:Year>2002</b:Year>
+    <b:JournalName>Condensed Soft Matter</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Matthias</b:First>
+            <b:Last>Fuchs</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michael E</b:First>
+            <b:Last>Cates</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>schematic-models-for-dynamic-yielding-of-sheared-colloidal-glasses</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Material extrusion additive manufacturing of dense pastes consisting of macroscopic particles</b:Title>
+    <b:Year>2022</b:Year>
+    <b:Month>10</b:Month>
+    <b:StandardNumber>21596867</b:StandardNumber>
+    <b:Publisher>Springer Nature</b:Publisher>
+    <b:Pages>483-494</b:Pages>
+    <b:JournalName>MRS Communications</b:JournalName>
+    <b:Volume>12</b:Volume>
+    <b:Issue>5</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Alexandra</b:First>
+            <b:Last>Marnot</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alexandra</b:First>
+            <b:Last>Dobbs</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Blair</b:First>
+            <b:Last>Brettmann</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>material-extrusion-additive-manufacturing-of-dense-pastes-consisting-of-macroscopic-particles</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Macroscopic rheology of non-Brownian suspensions at high shear rates: the influence of solid volume fraction and non-Newtonian behaviour of the liquid phase</b:Title>
+    <b:Year>2022</b:Year>
+    <b:Month>2</b:Month>
+    <b:StandardNumber>14351528</b:StandardNumber>
+    <b:Publisher>Springer Science and Business Media Deutschland GmbH</b:Publisher>
+    <b:Pages>123-138</b:Pages>
+    <b:JournalName>Rheologica Acta</b:JournalName>
+    <b:Volume>61</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Patrick</b:First>
+            <b:Last>Wilms</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jörg</b:First>
+            <b:Last>Hinrichs</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Reinhard</b:First>
+            <b:Last>Kohlus</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>macroscopic-rheology-of-non-brownian-suspensions-at-high-shear-rates:-the-influence-of-solid-volume-fraction-and-non-newtonian-behaviour-of-the-liquid-phase</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Direct ink writing techniques for in situ gelation and solidification</b:Title>
+    <b:Year>2021</b:Year>
+    <b:Month>4</b:Month>
+    <b:StandardNumber>21596867</b:StandardNumber>
+    <b:Publisher>Springer Nature</b:Publisher>
+    <b:Pages>106-121</b:Pages>
+    <b:JournalName>MRS Communications</b:JournalName>
+    <b:Volume>11</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jackson K.</b:First>
+            <b:Last>Wilt</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dustin</b:First>
+            <b:Last>Gilmer</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sungjin</b:First>
+            <b:Last>Kim</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Brett G.</b:First>
+            <b:Last>Compton</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tomonori</b:First>
+            <b:Last>Saito</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>direct-ink-writing-techniques-for-in-situ-gelation-and-solidification</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Yield stress and elasticity influence on surface tension measurements</b:Title>
+    <b:Year>2015</b:Year>
+    <b:Month>6</b:Month>
+    <b:JournalName>Condensed Soft Matter</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Loren</b:First>
+            <b:Last>Jørgensen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Marie Le</b:First>
+            <b:Last>Merrer</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hélène</b:First>
+            <b:Last>Delanoë-Ayari</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Catherine</b:First>
+            <b:Last>Barentin</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>http:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;1506.01622</b:URL>
+    <b:URL>http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1039&#x2F;c5sm00569h</b:URL>
+    <b:Tag>yield-stress-and-elasticity-influence-on-surface-tension-measurements</b:Tag>
+  </b:Source>
+</b:Sources>

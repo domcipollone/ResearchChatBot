@@ -36,11 +36,11 @@ class ParseArticle:
         return self.dataframe
 
 
-f = 'ExampleXML_files/endnote.xml'
+f = 'IncomingData/04.22.23_endnote.xml'
 tree = etree.parse(f)
 root2 = tree.getroot()
 
-article_info = pd.DataFrame(columns=['title', 'year', 'author', 'volume', 'abstract', 'rf_label'])
+article_info = pd.DataFrame(columns=['title', 'year', 'author', 'volume', 'abstract'])
 
 xml_file = ParseArticle(root=root2, dataframe=article_info)
 x = xml_file.parse_title(parent='titles', child='title', df_column='title')
