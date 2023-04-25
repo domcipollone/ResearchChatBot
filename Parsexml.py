@@ -11,8 +11,8 @@ def append_to_dataframe(parsed_info, dataframe, df_column):
     pass
 
 
-class ParseArticle:
-    """ This class parses various elements of an xml file containing scientific articles and papers. Elements include
+class ParseArticle(object):
+    """ Parses various elements of an xml file containing scientific articles and papers. Elements include
     the author, title, year, abstract, and keywords."""
 
     def __init__(self, root, dataframe):
@@ -29,11 +29,16 @@ class ParseArticle:
 
                 print(subchild.text)
                 variable_list.append(subchild.text)
-        print(variable_list)
+        # print(variable_list)
 
         self.dataframe[df_column] = variable_list
 
         return self.dataframe
+    
+    def parse_abstract(self, parent, df_column):
+
+    def parse_article(self):
+        self.parse_title
 
 
 f = 'IncomingData/04.22.23_endnote.xml'

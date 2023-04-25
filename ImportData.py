@@ -77,8 +77,8 @@ for count, filename in enumerate(os.listdir(path)):
     # article_info['rf_label'] = labels[count]
     # article_info_complete = pd.concat([article_info_complete, article_info])
 
-article_info.reset_index(drop=True, inplace=True)
-article_info.to_csv('ArticleData_og.csv')
+# article_info.reset_index(drop=True, inplace=True)
+# article_info.to_csv('ArticleData_og.csv')
 
 tree2 = etree.parse('IncomingData/04.22.23_endnote.xml')
 root2 = tree2.getroot()
