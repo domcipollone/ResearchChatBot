@@ -1,16 +1,17 @@
 from lxml import etree
 import pandas as pd
+from datetime import date
 
 
 def xml_to_dataframe(xml_file):
     
     # Parse the XML file
-    tree = etree.parse(f)
+    tree = etree.parse(xml_file)
 
     # Get the root element
     root = tree.getroot()
 
-    df = pd.DataFrame(columns=['title', 'author', 'year', 'abstract', 'keywords', 'issue', 'volume', 'journal'])
+    df = pd.DataFrame(columns=['title', 'author', 'year', 'abstract', 'keywords', 'issue', 'volume', 'journal', 'date_added'])
 
     # Iterate through the records
     for count, record in enumerate(root.iter('record')):
@@ -75,6 +76,10 @@ def xml_to_dataframe(xml_file):
         df.loc[count, 'issue'] = issue_text
         df.loc[count, 'volume'] = volume_text
         df.loc[count, 'journal'] = journal_text
+        df.loc[count, 'date_added'] = date.today().isoformat()
+
+    df.sort_values(by='author', ascending=True, inplace=True)
+    df.reset_index(inplace=True, drop=True)
 
     return df
 
@@ -83,4 +88,5 @@ f = 'IncomingData/04.22.23_endnote.xml'
 
 testing = xml_to_dataframe(xml_file=f)
 testing.to_csv("testing.csv")
+testing.to_pickle(path='diw.pkl')
 print(testing.head())
